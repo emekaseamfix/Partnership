@@ -1,0 +1,1187 @@
+ .text-purple{color:#643685}
+ .button-purple > button{
+    background-color: #643685 !important;
+    /*border-radius: 4px;*/
+    box-shadow: 0 0 #D022FB 40px;
+    color: white !important;
+ }
+ 
+ .cq-testimoniallist-contentcontainer{
+     background: linear-gradient(212deg,#FF3CAC,#784BA0,#2B86C5) !important;
+ }
+ 
+ .inner-width-95>div>.wpb_wrapper{
+     width:95%;
+ }
+ 
+ .vm-link{
+     color:#643685 !important;
+     margin-left:33px;
+ }
+ 
+ #steps .step:nth-child(2) .fadeIn.animated{
+     animation-delay:1s;
+ }
+ #steps .step:nth-child(3) .fadeIn.animated{
+     animation-delay:2s;
+ }
+ #steps .step:nth-child(4) .fadeIn.animated{
+     animation-delay:3s;
+ }
+ 
+ .fadeIn.animated{
+    -webkit-animation-duration: 1.5s !important;
+    animation-duration: 1.5s !important;
+ }
+ 
+ .cq-testimoniallist-contentcontainer::after{ border-top:10px solid #635BAA !important;}
+ #started-btn>button{
+     font-size:24px;
+ }
+ 
+ .cq-accordion ul li i:before, .cq-accordion ul li i:after{
+     width:2px !important;
+     height:13px !important;
+ }
+ 
+  .cq-accordion ul li a{
+     color:#643685 !important;
+  }
+ 
+  .cq-accordion ul li input[type=checkbox]:checked ~ i:before{
+    -webkit-transform: translate(-2px, 0) rotate(90deg) !important;
+    transform: translate(-2px, 0) rotate(90deg) !important; 
+
+ }
+ 
+ .cq-accordion ul li i:before{
+     -webkit-transform: translate(-2px, 0) rotate(90deg) !important;
+    transform: translate(-2px, 0) rotate(90deg) !important;
+ }
+ 
+ .cq-accordion ul li input[type=checkbox]:checked ~ i:after {
+    -webkit-transform: translate(-2px, 0) rotate(0deg) !important;
+    transform: translate(-2px, 0) rotate(0deg) !important;
+}
+.cq-accordion ul li i:after{
+    -webkit-transform: translate(-2px, 0) rotate(90deg) !important;
+    transform: translate(-2px, 0) rotate(90deg) !important;
+}
+ 
+  .purple-grad{
+            background: linear-gradient(212deg,#FF3CAC,#784BA0,#2B86C5);
+            color: white;
+        }
+.purple-box{
+    background: linear-gradient(212deg,#FF3CAC,#784BA0,#2B86C5);
+    border-radius: 29px;
+    width:68px;
+    height:68px;
+}
+
+.feature-icon{
+    min-width:60px;
+    padding-top: 0.25rem;
+}
+
+.pricing {
+    height: 594.5px;
+    width: 340px;
+    border-radius: 8px;
+    font-family: 'Open Sans',sans-serif;
+    background-color: #F3F3F3;
+    margin-bottom : 1.5rem;
+ }
+.pricing h1 {
+    color: #A71DB0;
+    font-size: 56px;
+
+}
+
+.pricing h2 {
+    color: #643685;
+
+}
+
+
+.pricing:hover{
+   background: linear-gradient(212deg,#FF3CAC,#784BA0,#2B86C5) !important;
+   color: white !important;
+
+}
+.pricing button, .pricing a{
+    background:#643685 !important;
+    color: white !important;
+    border: none !important;
+    /*border-radius: 0px !important;*/
+    font-size: 18px !important;
+    font-weight:500 !important;
+}
+
+.pricing:hover button, .pricing:hover a{
+    background: white !important;
+    color: #643685 !important;
+}
+.pricing:hover h1, .pricing:hover h4, .pricing:hover h2{
+    color: white;
+}
+
+.head h3:after{
+    height: 2px;
+    width: 150px;
+    background: linear-gradient(212deg,#FF3CAC,#784BA0,#2B86C5);
+    display: block;
+    content: "";
+    margin: 0.75rem auto 0;
+       
+}
+
+.box-shadow{
+    box-shadow: 0 3px 60px rgba(112,112,112,.07)
+}
+
+.cq-accordion p {
+    padding:0px !important;
+}
+ .cq-accordion ul li i {
+    -webkit-transform: translate(0px, 0) !important;
+    transform: translate(0px, 0) !important;
+}
+
+.element.style:active{
+    background: #623485 !important;
+    
+}
+
+/*Price Slide*/
+.range-slider {
+  margin: 60px 0 0 0%;
+}
+
+.range-slider {
+  width: 70%;
+  margin:25px auto;
+  text-align: center;
+}
+
+.range-slider__range {
+  -webkit-appearance: none;
+  width:100%;
+  
+  height: 10px;
+  border-radius: 5px;
+  background: #d7dcdf;
+  outline: none;
+  padding: 0;
+  margin: 0 0 0 0;
+}
+.range-slider__range::-webkit-slider-thumb {
+  -webkit-appearance: none;
+          appearance: none;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: #2c3e50;
+  cursor: pointer;
+  transition: background .15s ease-in-out;
+}
+.range-slider__range::-webkit-slider-thumb:hover {
+  background: #643685;
+}
+.range-slider__range:active::-webkit-slider-thumb {
+  background: #643685;
+}
+.range-slider__range::-moz-range-thumb {
+  width: 20px;
+  height: 20px;
+  border: 0;
+  border-radius: 50%;
+  background: #2c3e50;
+  cursor: pointer;
+  transition: background .15s ease-in-out;
+}
+.range-slider__range::-moz-range-thumb:hover {
+  background: #643685;
+}
+.range-slider__range:active::-moz-range-thumb {
+  background: #643685;
+}
+.range-slider__range:focus::-webkit-slider-thumb {
+  box-shadow: 0 0 0 3px #fff, 0 0 0 6px #643685;
+}
+
+
+
+.range-slider__value {
+  display: inline-block;
+  position: relative;
+  width: 170px;
+  color: #fff;
+  line-height: 20px;
+  text-align: center;
+  border-radius: 3px;
+  background: #603484;
+  padding: 5px 10px;
+  margin-left: 8px;
+}
+.range-slider__value:after {
+  position: absolute;
+  top: -10px;
+  left: 47%;
+  width: 0;
+  height: 0;
+  border-top: 7px solid transparent;
+  border-right: 7px solid #603484;
+  border-bottom: 7px solid transparent;
+  content: '';
+  transform: rotate(90deg);
+}
+
+
+.range-slider__user {
+  display: inline-block;
+  position: relative;
+  width: 60px;
+  color: #fff;
+  line-height: 20px;
+  text-align: center;
+  border-radius: 3px;
+  background: #603484;
+  padding: 5px 10px;
+  margin-left: 8px;
+}
+.range-slider__user:after {
+  position: absolute;
+  top: 8px;
+  right: -7px;
+  width: 0;
+  height: 0;
+  border-top: 7px solid transparent;
+  border-right: 7px solid #603484;
+  border-bottom: 7px solid transparent;
+  transform: rotate(180deg);
+  content: '';
+}
+
+
+/*pricing details*/
+
+.pricingdetails{
+ margin:10px auto;
+ position: relative;
+ padding:2rem;
+}
+
+.card .card-body .amount{
+    text-align:center;
+    margin-top:5px;
+}
+
+.card .card-body {
+    text-align: center;
+}
+
+.card .card-body .period{
+    margin:0 auto;
+    background-color: #F0F0F0;
+    border-radius: 25px;
+    text-align:center;
+}
+.card-body h2{
+    color:#643685;
+}
+
+.card .card-body .list{
+    font-size:12px;
+    list-style-image: url('https://seamfix.staging.wpengine.com/wp-content/uploads/2018/09/correct.png');
+    padding-left:10px;
+    margin-top:30px;
+    margin-bottom:30px;
+    text-align:left;
+
+}
+
+.card .card-body .btn-link{
+  text-align:center;   
+}
+
+.card .card-body .btn-link a{
+  padding:10px 30px;
+  background-color:#643685;
+  border-radius:25px;
+  color:#fff!important;
+  text-decoration: none;
+}
+
+.card .card-body p {
+    margin: 0 0 10px 0;
+    font-size: 14px;
+}
+
+.btn-link:hover {
+    text-decoration: none;
+}
+.card-ribbon {
+    position: absolute;
+    overflow: hidden;
+    top: -2rem;
+    left: -2rem;
+    width: 114px;
+    height: 112px;
+}
+
+  .card-ribbon   span {
+        position: absolute;
+        display: block;
+        width: 160px;
+     
+        background-color: #643685;
+        color: #fff;
+        font-size: 13px;
+        text-transform: uppercase;
+        text-align: center;
+        left: -35px;
+        top: 25px;
+        transform: rotate(-45deg);
+    }
+    
+    .hide-ribbon{
+        display:none;
+    }
+    
+    .contact101{
+        text-align:center;
+    }
+    
+    select {
+    width: 225px!important;
+    border-radius: 3px !important;
+    border: 1px solid #603484  !important;
+     padding-left: 20px;
+}
+
+.selector{
+    text-align:center;
+    margin:0 auto;
+       
+}
+.card .card-body .period span {
+    padding: 3px 0px;}
+
+.link-active{
+
+    border-radius: 25px;
+    background-color: #603484 ;
+}
+
+.link-active a{
+    color:#fff!important;
+
+}
+.card-link:hover{
+    color:black;
+}
+
+.price-value{
+    margin-bottom:0;
+}
+
+.hideyearly{
+    visibility:hidden;
+}
+
+@media only screen and (min-width:1392px){
+     #home-section{
+      background-size: 100%;
+      min-height:98.1415vh !important;
+     }
+
+    
+}
+@media only screen and (min-width:992px){
+    .w-lg-75{
+        width: 75% !important;
+        
+    }
+    .w-lg-50{
+        width: 50% !important;
+        
+    }
+    
+
+}
+@media only screen and (min-width: 1200px){
+    .w-xl-75
+    {
+        width: 75% !important;
+    }
+}
+
+
+@media only screen and (max-width:376px){
+    .pricing {
+        width:95%;   
+    }
+    
+    .card .card-body .period {
+    font-size: 14px;
+}
+
+.card-body h2 {
+    font-size: 24px;
+}
+.range-slider {
+    width: 90%;
+}
+}
+
+
+@media only screen and (max-width:768px){
+    .inner-width-95>div>.wpb_wrapper{
+     margin-left:auto;
+     margin-right:auto;
+ }
+.range-slider {
+    width: 90%;
+}
+    
+}
+@media only screen and (max-width: 600px)
+{
+        #ad-page{
+        background-image:none !important;
+    }
+}
+@media screen and (max-width: 1200px) and (min-width: 768px){
+    #selfie-col{
+        border-left: 1px solid #DFDFDF;
+    }
+    
+}
+
+
+/*RoadMap*/
+
+button.ubtn-normal{
+    padding:15px 60px !important;
+}
+
+.vc_tta-panels{
+    border:0 !important;
+    background:transparent !important;
+}
+
+
+.page-link, .page-item:first-child .page-link, .page-item:last-child .page-link{
+    font-size:1.3rem;
+    border-radius:10px;
+    box-shadow: 1px 3px 5px #ebebeb;
+    margin:auto 2px;
+}
+
+a.page-link.btnTwo {
+    font-size: 1.3rem;
+    border-radius: 10px;
+    box-shadow: 1px 3px 5px #ebebeb;
+    margin: auto 2px;
+}
+
+a.page-link.btnThree {
+    font-size: 1.3rem;
+    border-radius: 10px;
+    box-shadow: 1px 3px 5px #ebebeb;
+    margin: auto 2px;
+}
+
+a.page-link.btnFour {
+    font-size: 1.3rem;
+    border-radius: 10px;
+    box-shadow: 1px 3px 5px #ebebeb;
+    margin: auto 2px;
+}
+
+a.page-link.btnFive {
+    font-size: 1.3rem;
+    border-radius: 10px;
+    box-shadow: 1px 3px 5px #ebebeb;
+    margin: auto 2px;
+}
+
+a.page-link.btnSix {
+    font-size: 1.3rem;
+    border-radius: 10px;
+    box-shadow: 1px 3px 5px #ebebeb;
+    margin: auto 2px;
+}
+
+.numbers{
+    top: -30px;
+    position: absolute;
+    z-index:999;
+}
+
+.pactive{
+    background-image: linear-gradient(to bottom right, #FF3CAC, #784BA0, #2B86C5) !important;
+	color: #FFF !important;
+	border:none !important;
+}
+
+.display-3 {
+    font-size: 3.5rem;
+    font-weight: 400;
+    line-height: 1.2;
+}
+
+@media(max-width: 1440px){
+    .numbers{
+        top: -80px;
+        position: absolute;
+        z-index:999;
+    }
+}
+
+@media(max-width: 1024px){
+    .numbers{
+        top: 0;
+        position: relative;
+        z-index:999;
+    }
+}
+
+
+a.vc_general.vc_btn3.vc_btn3-size-md.vc_btn3-shape-round.vc_btn3-style-outline-custom {
+    border-color: rgb(27, 149, 224);
+    color: #fff !important;
+    background-color: transparent;
+}
+
+a.vc_general.vc_btn3.vc_btn3-size-md.vc_btn3-shape-round.vc_btn3-style-outline-custom:hover {
+    background-color: transparent;
+    color: #fff !important;
+}
+
+a.vc_general.vc_btn3.vc_btn3-size-md.vc_btn3-shape-round.vc_btn3-style-custom {
+    color: #fff !important;
+}
+
+.dot li:before{
+     content: '';
+   position: absolute;
+   width: 15px;
+   height: 15px;
+   margin-top: 7px;
+   left: -25px;
+   background: #643685;
+   border-radius: 50%;
+}
+
+.page-link, .page-item:first-child .page-link, .page-item:last-child .page-link {*/
+    font-size: 1.3rem;
+  border-radius: 50%;
+box-shadow: 1px 3px 5px #ebebeb;
+/*    margin: auto 2px;
+/*    padding-top: 20px;
+/*    padding-bottom: 28px;
+/*    padding-left: 20px;
+/*}*/
+}
+
+
+.page-link, .page-item .page-link, .page-item .page-link {
+    font-size: 1rem !important;
+    border-radius: 50%!important;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 28px;
+    
+    border: 2px solid #643685;
+}
+
+.pagination li.page-item {
+    margin-right: 1rem;
+    background: #fff;
+}
+
+.pagination li:before {
+    content: "";
+    /* background: #643685; */
+    height: 3px;
+    width: 30px;
+    /* right: 73px; */
+    left: -28px;
+    top: 49%;
+    border-bottom: 3px solid #643665;
+    position: absolute;
+    z-index: -1}
+li {
+    position: relative}
+    
+    .pagination li.page-item:first-child::before {
+    border: none;
+}
+
+section.vc_section.d-lg-block.d-none.vc_custom_1537524524633 {
+    padding-top: 0 !important;
+}
+
+.vc_custom_1537524524633 {
+    /* padding-top: 5rem !important; */
+    padding-bottom: 5rem !important;
+}
+
+
+a.vc_general.vc_btn3.vc_btn3-size-md.vc_btn3-shape-round.vc_btn3-style-outline-custom {
+    border-color: rgb(98, 52, 133);
+    color: rgb(98, 52, 133) !important;
+    background-color: transparent;
+}
+
+a.vc_general.vc_btn3.vc_btn3-size-md.vc_btn3-shape-round.vc_btn3-style-outline-custom {
+    font-size: 19px !important;
+}
+
+a.vc_general.vc_btn3.vc_btn3-size-md.vc_btn3-shape-round.vc_btn3-style-flat.vc_btn3-color-grey {
+    font-size: 19px !important;
+}
+#about, #steps
+{
+    background-color: #f7f7f7;
+}
+.step
+{
+    background-color: #ffffff;
+}
+.play-video-4
+{
+    background-color: transparent;
+    border: 0;
+    padding: 7px 0px;
+    color: #0F1A26;
+}
+
+.play-video-4:hover {
+    opacity: 0.5;
+    cursor: pointer;
+    
+}
+.app-store-container .vc_column-inner
+{
+    padding-left: 0px !important;
+}
+.input-grey
+{
+    background-color: #F5F5F5;
+    border-style: solid;
+    border-color: rgba(195, 195, 195, 0.25);
+    border-radius: 4px;
+}
+@media only screen and (min-width: 1200px)
+{
+    .get-started-form
+{
+    width:75%;
+}
+}
+@media only screen and (max-device-width: 812px) and (min-device-width: 360px)
+{
+    input[type="text"]
+    {
+     width: 100% !important;
+    }
+}
+
+.get-started-form
+{
+    font-weight: 600;
+}
+@media only screen and (max-width: 768px){
+h1 {
+    font-size: 2rem !important;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+address
+{
+<div class="justify-content-start align-items-center d-flex ml-5 pl-5">
+
+
+<p class="ml-5 pl-4">              <span class="wpcf7-form-control-wrap Address"><input type="text" name="Address" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control address" id="Address" aria-required="true" aria-invalid="false" placeholder="Address"></span></p>
+</div>
+
+}
+
+        
+         <div class="address">           
+              [text* Address id:Address class:form-control placeholder "Address"]
+         </div>
+ 
+     </div> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form class="container sectionPartner ">
+      <div class="justify-content-center align-items-center d-flex">
+        <div class="form-row mb-4 pl-2 ml-2">
+          <div class=" col-md-6">
+
+            [text* FirstName id:fname class:form-control class:input-grey class:mb-4 placeholder "First Name"]
+  
+          </div>
+          <div class=" col-md-6">
+
+           [text* LastName id:lname class:form-control class:input-grey class:mb-4 placeholder "Last Name"]
+
+          </div>
+        </div>
+      </div> 
+
+       <div class="justify-content-center align-items-center d-flex">
+        <div class="col-md-6 ">
+          <div class="mb-4  form-row pl-5 ml-3 pr-5"> 
+ 
+               
+              [text* Address id:Address class:form-control placeholder "Address"]
+
+            </div>
+        </div>
+      </div>  
+
+       <div class="justify-content-center align-items-center d-flex">
+        <div class="col-md-6">
+          <div class="mb-4  form-row pl-5 ml-3 pr-5">  
+
+               [tel phonenumber id:phonenumber class:form-control "Phone Number"]
+
+            </div>
+        </div>
+      </div>   
+
+      <div class="justify-content-center align-items-center  d-flex">
+        <div class="mb-4 form-row mb-2 mx-5 pr-2">
+          <div class=" col-md-6">       
+
+[select Country id:country class:form-control class:input-grey class:mx-3 class:pr-5 class:mb-4  "Country..." "Choose..." "..."]
+
+          </div>
+            <div class=" col-md-6">
+
+               [text* city id:city class:mx-3 class:form-control class:input-grey "City"]
+
+            </div>
+        </div>
+      </div>
+
+       <div class="justify-content-center align-items-center d-flex">
+        <div class="col-md-6">
+          <div class="mb-4 form-row pl-5 ml-3 pr-5">  
+
+
+[select Productofinterest id:product class:form-control "Product of interest" "Biosmart" "Bioregistra" "iClocker" "Other"]
+
+          </div>               
+        </div>
+      </div>  
+
+       <div class="justify-content-center align-items-center d-flex">
+        <div class="col-md-6">        
+          <div class="mb-4 form-row pl-5 ml-3 pr-5">  
+
+[select Iwillliketobea id:like class:form-control "I would like to be a..." "Referrer" "Reseller" "Prime Partner" "The Strategic Partner"]
+
+          </div>             
+        </div>
+      </div>  
+
+      <div class="justify-content-center align-items-center d-flex pb-3 ">
+        <div class="col-md-6">  
+          <div class=" pl-5 ml-3 pr-5">  
+              <button type="button" class=" partnerbtn btn-lg btn-block">Become a partner</button>
+          </div>   
+        </div>
+      </div>  
+    </form>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+new
+
+<div class="container sectionPartner">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                           [text* FirstName id:fname class:form-control class:input-grey placeholder "First Name"]
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+                        <div class="form-group">  
+                         [text* LastName id:lname class:form-control class:input-grey placeholder "Last Name"]
+                            </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-12">
+                        <div class="form-group">
+                                [text* Address id:Address class:form-control placeholder " Email Address"]
+                        </div>
+                </div>    
+            </div>
+
+<div class="row">
+                <div class="col-md-12">
+                        <div class="form-group">
+                                [tel phonenumber id:phonenumber class:form-control "Phone Number"]
+                        </div>
+                </div>    
+            </div>
+
+            <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+[select Country id:country class:form-control class:input-grey "Country..." "Choose..." "..."]  
+                        </div>
+                    </div>
+    
+                    <div class="col-md-6">
+                            <div class="form-group">  
+                                         [text* city id:city  class:form-control class:input-grey "City"]
+                                </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                        <div class="col-md-12">
+                                <div class="form-group">
+                                      [select Productofinterest id:product class:form-control "Product of interest" "Biosmart" "Bioregistra" "iClocker" "Other"]
+      
+                                </div>
+                        </div>    
+                    </div>
+
+                    <div class="row">
+                            <div class="col-md-12">
+                                    <div class="form-group">
+[select Iwillliketobea id:like class:form-control "I would like to be a..." "Referrer" "Reseller" "Prime Partner" "The Strategic Partner"]
+                                    </div>
+                            </div>    
+                        </div>
+
+                        <div class="row">
+                                <div class="col-md-12">
+                                        <div class="form-group">
+                                               
+[submit class:partnerbtn class:btn-lg class:btn-block "Become a partner"]
+                                        </div>
+                                </div>    
+                            </div>    
+
+
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width:360px){
+
+    body{
+        background:white;
+    }
+    
+        .wpb_single_image img {
+    /*height: auto;*/
+    /*max-width: 100%;*/
+    vertical-align: top;
+   height: 16em;
+    max-width: 20em;
+    margin-left: 0.5em;
+}
+  
+
+}
+
+
+
+
+        .wpb_single_image img {
+    /* height: auto; */
+    /* max-width: 100%; */
+    vertical-align: top;
+    height: 30em !important;
+    max-width: 27em !important;
+    margin-left: 0.5em !important;
+}
+
+
+    .wpb_single_image img {
+    /* height: auto; */
+    /* max-width: 100%; */
+    vertical-align: top;
+    height: 30em !important;
+    max-width: 27em !important;
+    margin-left: 0.5em !important;
+}
+
+
+<div class="container-fluid">
+<div class="row ">
+<div class="col-sm-12 text-center ">
+<h3 class="infoTitle mt-4">Become a partner</h3>
+</div>
+</div>
+</div>
+
+Montserrat
+[text* Address id:Address class:form-control placeholder " Email Address"]
+
+
+
+
+
+
+<!-- Dropdown menu -->
+<div class="btn-group" dropdown>
+  <button dropdownToggle type="button" class="btn btn-primary dropdown-toggle">
+    Button dropdown <span class="caret"></span>
+  </button>
+  <ul *dropdownMenu class="dropdown-menu" role="menu">
+    <li role="menuitem"><a class="dropdown-item" href="#">Action</a></li>
+    <li role="menuitem"><a class="dropdown-item" href="#">Another action</a></li>
+    <li role="menuitem"><a class="dropdown-item" href="#">Something else here</a></li>
+    <li class="divider dropdown-divider"></li>
+    <li role="menuitem"><a class="dropdown-item" href="#">Separated link</a>
+    </li>
+  </ul>
+</div>
+<br><br>
+
+
+<!-- Accordian -->
+<accordion>
+  <accordion-group heading="Static Header">
+    This content is straight in the template.
+  </accordion-group>
+  <accordion-group heading="Another group">
+    <p>Some content</p>
+  </accordion-group>
+  <accordion-group heading="Another group">
+    <p>Some content</p>
+  </accordion-group>
+  <accordion-group heading="Another group">
+    <p>Some content</p>
+  </accordion-group>
+</accordion>
+<br><br>
+
+<!-- 
+<accordion>
+  <accordion-group heading="Group without isOpenChange event listener">
+    <p>Some content</p>
+  </accordion-group>
+  <accordion-group heading="Group with isOpenChange event listener" (isOpenChange)="log($event)">
+    <p>Some content</p>
+  </accordion-group>
+  <accordion-group heading="Group with isOpenChange event listener" (isOpenChange)="log($event)">
+    <p>Some content</p>
+  </accordion-group>
+</accordion>
+<br><br> -->

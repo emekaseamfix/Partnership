@@ -1,0 +1,273 @@
+ 
+@import url('https://fonts.googleapis.com/css?family=Montserrat:500,800');
+ 
+
+/* You can add global styles to this file, and also import other style files */
+/* res pnsiveness */
+/* media query */
+body html{
+    overflow-x: hidden;
+    margin:0;
+    padding: 0;
+}
+
+.title-underline{
+    height: 4px;
+    width: 227px;
+    background: black;
+    display: block;
+    margin: -1.25rem auto 0; 
+
+}
+
+.sectionAddress{
+    /* background-color:#CBCBCB;  */
+   opacity: 1;
+}
+
+.addressRow{
+    background-color:#CBCBCB; 
+}
+
+ .addressTitle{
+     color:#707070;
+     font-family: 'Montserrat',sans-serif;
+     font-weight: lighter;
+    
+} 
+
+.addressHeading {
+font-family: 'Montserrat',sans-serif;
+font-weight:800;
+font-size: 3.4em;
+}
+
+.addressClass{
+    font-family: 'Montserrat',sans-serif;
+      font-size: 0.9em; 
+    font-weight:500; 
+}
+
+.addressButton{
+    background-color: #007CAA;
+    border: 1px solid #007CAA;
+    color: #fff !important;
+    border-radius: 100px;
+    height: 40px;
+    width: 150px;
+}
+
+.addressBackground{
+    background: url(../images/Partnership@2x.png); 
+    background-size: cover; 
+    background-position: center center;
+    background-repeat: no-repeat;
+
+    /* background: url(../images/Partnership@2x.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+      */
+}
+
+
+.infoTitle{
+ color: #0D2C40;
+ font-family: 'Montserrat',sans-serif;
+ font-weight: normal;
+}
+
+.shutterstock{
+    width: 824.74px;
+    height: 542.43px;
+}
+
+.infoTextSemiBold{
+    color: #0F1A26;
+    font-weight: 400;
+    font-weight: bold;
+    font-family: 'Monserrat',sans-serif;
+}
+
+.infoTestItalics{
+    font-family: 'Monserrat',sans-serif;
+    color: #7E7E7E;
+    font-style: italic;
+}
+
+.infoSubTitle{
+    color: #000000;
+    font-size: 18px;
+}
+
+.infoHeading{
+    color: #0D2C40;
+    font-weight: 400;
+    font-weight: bold;
+    font-family: 'Monserrat',sans-serif;
+}
+
+.infoSub-Heading{
+    color: #0F1A26;
+    font-weight: 100;
+    font-weight:lighter;
+    font-family: 'Monserrat',sans-serif;
+}
+
+.sectionPartner{
+     background: url(../images/MaskGroup1.png)  ; 
+     background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.partnerbtn{
+    color: #FFFFFF;
+    background-color: #007CAA;
+    border-radius: 4px;
+    border: #007CAA 1px solid; 
+}
+
+.input-group-append{
+    background-color: #212529 !important;
+    color: #fff !important;
+    border:1px solid;
+    border-top-right-radius:20px;
+    border-bottom-right-radius: 20px;
+    margin-top: -1px;
+} 
+
+.footertext{
+    background-color: #212529;
+      }
+ 
+@media screen and (min-width:576px){
+
+    body{
+        background:white;
+    }
+
+}
+
+@media screen and (max-width:576px){
+
+    .nav-item{
+        margin-left: 30px;
+    }
+
+    .addressHeading {
+        font-family: 'Montserrat',sans-serif;
+        font-weight:bolder;
+        font-weight:800;
+        font-size: 1.4em;
+        }
+            
+    
+    .g571{
+        height: 20px;
+    }    
+
+    .icons {
+
+    }
+  
+}
+
+
+@media screen and (min-width:768px){
+
+    body{
+        background:white;
+    }
+
+    .nav-item{
+        margin-left: 30px;
+    }
+
+}
+
+@media screen and (min-width:992px){
+
+    body{
+        background:white;
+    }
+
+}
+
+@media screen and (max-width:992px){
+
+    body{
+        background:white;
+    }
+
+    .shutterstock{
+        padding-top: 50px;
+    }
+}
+
+@media screen and (min-width:1200px){
+
+    body{
+        background:white;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
